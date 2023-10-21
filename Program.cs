@@ -1,6 +1,4 @@
 ﻿
-string[] cars = new string[] { "Lamborghini", "Rolls Royce", "Bugatti Veronni", "Ferrari", "Tesla" };
-
 try
 {
     List<string> names = new() { "Ahmad Raza", "Abdul Tawwab", "Hasbiyallah" };
